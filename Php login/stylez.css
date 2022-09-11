@@ -1,0 +1,32 @@
+*{  margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+html{
+    background-image: url("./images/wp4676578-4k-pc-wallpapers.jpg") ;
+    background: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+div{
+    border: solid red;
+    width: 200px;
+    height: 200px;
+}
+
+.rick{
+    background-image:url("./images/Rick\ and\ Morty.jpg") ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background: fixed
+} 
+   
+.btn {
+    text-size-adjust: 60px;
+    text-align: right;
+}
